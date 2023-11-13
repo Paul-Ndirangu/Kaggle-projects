@@ -35,4 +35,27 @@ To get started with the projects in this repository:
 
 4. Submit a pull request and join the collaborative learning experience!
 
+
+## Projects 
+Projects in the repository include:
+* [Customer Shopping Trends Dataset]()
+
+* Project 2
+
+
+### Collaborators
+- [Your Name](https://github.com/your-username)
+- [Collaborator 1](https://github.com/collaborator-1)
+- [Collaborator 2](https://github.com/collaborator-2)
+- ...
+
+### License
+This project is licensed under the [MIT License](LICENSE.md).
+
+### Acknowledgment
+A special thanks to Kaggle for providing a platform that inspires learning and collaboration in the field of data science and machine learning.
+
+### Contributions
+We welcome and appreciate contributions from the community. Whether it's fixing a bug, adding a new feature, or improving documentation, your efforts make this repository more valuable for everyone. Thank you for contributing!
+
 Thank you for being a part of this community-driven Kaggle Projects Repository. Happy coding!
