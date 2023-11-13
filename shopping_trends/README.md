@@ -1,5 +1,7 @@
 # Customer Shopping Preferences Dataset
 
+![Cover Image](images/dataset-cover.png)
+
 ## About the Dataset
 
 ### Context
