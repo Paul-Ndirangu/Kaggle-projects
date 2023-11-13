@@ -44,7 +44,6 @@ Projects in the repository include:
 
 
 ### Collaborators
-- [Your Name](https://github.com/your-username)
 - [Paul Ndirangu](https://github.com/Paul-Ndirangu/)
 - ...
 
