@@ -25,6 +25,7 @@ Feel free to explore the projects, learn from the code, and contribute to the Ka
 To get started with the projects in this repository:
 
 1. Clone the repository to your local machine.
+
    ```bash
    git clone https://github.com/your-username/kaggle-projects.git
    ```
